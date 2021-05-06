@@ -1,0 +1,2 @@
+def mükemmelsayibulma(sayı):
+    if
